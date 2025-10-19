@@ -2,8 +2,8 @@ $engine: 3
 $onesync: on
 name: mri_Qbox
 version: 3.0.3
-author: QBCore Brasil
-description: Uma versão pra quem não sabe o que faz do projeto brasileiro baseado na framework Qbox.
+author: Girellidev
+description: Versãozinha de uma pessoa preguiçosa
 
 tasks:
   #  Download Base Files
